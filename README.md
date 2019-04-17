@@ -1,4 +1,4 @@
-# Elasticsearch Plugin for CDAP
+# Elastic Insight - Missing Link to CDAP
 
 [CDAP](https://cdap.io) is an open source framework for building data analytic applications.
 
