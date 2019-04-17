@@ -1,4 +1,4 @@
-# Elastic Insight - Missing Link to CDAP
+# Elastic Insight - Connect to CDAP
 
 [CDAP](https://cdap.io) is an open source framework for building data analytic applications.
 
